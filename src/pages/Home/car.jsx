@@ -146,7 +146,7 @@ export const Car = () => {
   const slides = [
     {
       type: 'video',
-      src: "1.mp4",
+      src: "2.mp4",
       title: "Navigate the world",
       description: "Let the sounds of nature and breathtaking landscapes captivate you.",
       titleFont: "'Great Vibes', cursive",
@@ -156,7 +156,7 @@ export const Car = () => {
     },
     {
       type: 'video',
-      src: "2.mp4",
+      src: "1.mp4",
       title: "Live the Life Joyfully",
       description: "Experience the breathtaking beauty of unspoiled nature and luxury.",
       titleFont: "'Satisfy', cursive",
