@@ -1,0 +1,6 @@
+static:
+  spa: true
+  routes:
+    - type: rewrite
+      source: /(.*)
+      destination: /index.html
